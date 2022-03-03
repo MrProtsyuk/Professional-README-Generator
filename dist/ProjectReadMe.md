@@ -1,7 +1,7 @@
-# Test
+# Mark
 
 # Licensing:
-[![license](https://img.shields.io/badge/license--blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-Apache,MIT,Mozilla-Public,GNU-General-Public,Common-Development-and Distribution,None-blue)](https://shields.io)
 
 # Table of Contents 
 - [Description](#description)
@@ -12,23 +12,23 @@
 - [Additional Info](#additional-info)
 
 # Description:
-This is a sample Readme for the week 9 challenge
+Poops
 
 # Installation:
-Within Github
+chicken
 
 # Usage:
-Through the terminal
+chicken
 
 # License:
-
+Apache,MIT,Mozilla-Public,GNU-General-Public,Common-Development-and Distribution,None
 
 # Contribution:
-They dont
+no
 
 # Testing:
-Using Node and inquirer
+no
 
 # Additional Info:
-- Github: [MrProtsyuk](https://github.com/MrProtsyuk)
-- Email: No thank you 
+- Github: [no](https://github.com/no)
+- Email: no 
